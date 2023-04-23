@@ -1,6 +1,6 @@
 # Symfony under Jaisocx webserver docker image
 
-1. git clone ...
+1. git clone git@github.com:jaisocx-org/symfony-docker-setup.git
 2. docker-compose build
 3. docker-compose up
 4. docker-compose exec php composer install
