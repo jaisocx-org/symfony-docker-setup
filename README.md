@@ -4,7 +4,7 @@
 2. docker-compose build
 3. docker-compose up -d
 4. docker-compose exec php composer install
-4. http://localhost:2291/
+4. https://example-symfony-dockerized.brightday.email/
 4. That's all!
 
 
